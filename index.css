@@ -1,0 +1,18 @@
+body, html {
+  box-sizing: border-box; /* Isso ajuda a manter as dimensões dos elementos como você define */
+  margin: 0;
+  padding: 0;
+  max-height: 100%;
+  width: 100vw;
+  overflow-x: hidden; 
+  background-color: #f5f5f5;
+
+}
+
+/* Estilo para o contêiner principal que envolve tudo */
+.main-container {
+  max-width: 1010vh; /* ou qualquer outra largura máxima que você prefira */
+  margin: auto;
+   /* Isso adiciona um pouco de espaço nas laterais */
+}
+
