@@ -6,6 +6,8 @@
 
 # Projeto Violeta Eliz
 
+<p align="center"> Acreditamos em uma atuação social além de trocas utilitárias. É crucial construir relacionamentos saudáveis, compreendendo profundamente a complexidade da realidade. Enxergamos diversas questões inter-relacionadas, sendo essa compreensão fundamental para criar oportunidades de transformação efetivas. Buscamos não apenas eficiência no atendimento, mas estabelecer relacionamentos saudáveis, visando intencionalmente restaurar e fortalecer a dignidade, valores humanos, esperança e sonhos. Estes elementos, uma vez trabalhados, tornam-se alicerces para superar obstáculos e desafios que antes pareciam difíceis demais.</p>
+
 ## Desenvolvimento
 
 ### 🛠️ Ferramentas
