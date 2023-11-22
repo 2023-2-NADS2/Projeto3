@@ -14,6 +14,9 @@
 
 # Projeto Violeta Eliz
 
+<p align="center">
+<img src="https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-1/309658830_458734096282108_8584740478841679683_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-wv-2OX-HoAAX_YvjJr&_nc_ht=scontent-gru1-1.xx&oh=00_AfCYT0ve3N418WGZEY7x00QfTwU3w9fRmXWfXi2wPw_fuA&oe=6563846D" alt="logo violeta" border="0">
+ </p>
 <p align="center"> Acreditamos em uma atuação social além de trocas utilitárias. É crucial construir relacionamentos saudáveis, compreendendo profundamente a complexidade da realidade. Enxergamos diversas questões inter-relacionadas, sendo essa compreensão fundamental para criar oportunidades de transformação efetivas. Buscamos não apenas eficiência no atendimento, mas estabelecer relacionamentos saudáveis, visando intencionalmente restaurar e fortalecer a dignidade, valores humanos, esperança e sonhos. Estes elementos, uma vez trabalhados, tornam-se alicerces para superar obstáculos e desafios que antes pareciam difíceis demais.</p>
 
 ## Desenvolvimento
