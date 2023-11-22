@@ -21,16 +21,16 @@
 
 ## 🛠 Estrutura de pastas
 
-Violeta-back-end <br>
-violeta-eliz-WEB-main <br>
-public <br>
-src <br>
-.gitignore <br>
-README.md
-package-lock.json <br>
-package.json <br>
-.gitignore <br>
-README.md
+-->Violeta-back-end <br>
+-->violeta-eliz-WEB-main <br>
+-->public <br>
+-->src <br>
+-->.gitignore <br>
+-->README.md
+-->package-lock.json <br>
+-->package.json <br>
+-->.gitignore <br>
+-->README.md
 
 ## Desenvolvimento
 
