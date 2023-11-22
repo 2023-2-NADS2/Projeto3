@@ -8,7 +8,7 @@
 
 ## Integrantes:<a href="https://www.linkedin.com/in/matheus-andrade-mauro-372697253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app "> Matheus Mauro</a>,                <a href="https://www.linkedin.com/in/victor-malzone-3aa815248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"> Victor Malzone </a>, <a href="https://www.linkedin.com/in/kayque-campos-ferreira-dos-santos-0348b41a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"> Kayque Campos </a>, <a href="https://www.linkedin.com/in/caroline-gomes-446882230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"> Caroline Gomes</a>, <a href="https://www.linkedin.com/in/rebeca-da-silva-vieira-850a83242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/"> Rebeca Vieira</a><br>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/francisco-escobar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Francisco Escobar</a>,<a href="https://www.linkedin.com/in/jbuesso?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">José Carlos Buesso/a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/francisco-escobar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Francisco Escobar</a>,<a href="https://www.linkedin.com/in/jbuesso?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">José Carlos Buesso
 
 
 # Projeto Violeta Eliz
