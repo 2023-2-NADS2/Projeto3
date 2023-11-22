@@ -4,6 +4,14 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
+## VIOLETA ELIZ
+
+## Integrantes: <a href="https://www.linkedin.com/in/matheus-andrade-mauro-372697253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ">Matheus Mauro</a>, <a href="https://www.linkedin.com/in/victor-malzone-3aa815248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Victor Malzone</a>, <a href="https://www.linkedin.com/in/kayque-campos-ferreira-dos-santos-0348b41a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+">Kayque Campos </a>, <a href="https://www.linkedin.com/in/caroline-gomes-446882230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Caroline Gomes</a>, <a href="https://www.linkedin.com/in/rebeca-da-silva-vieira-850a83242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/">Rebeca Vieira</a>
+
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+
+
 # Projeto Violeta Eliz
 
 <p align="center"> Acreditamos em uma atuação social além de trocas utilitárias. É crucial construir relacionamentos saudáveis, compreendendo profundamente a complexidade da realidade. Enxergamos diversas questões inter-relacionadas, sendo essa compreensão fundamental para criar oportunidades de transformação efetivas. Buscamos não apenas eficiência no atendimento, mas estabelecer relacionamentos saudáveis, visando intencionalmente restaurar e fortalecer a dignidade, valores humanos, esperança e sonhos. Estes elementos, uma vez trabalhados, tornam-se alicerces para superar obstáculos e desafios que antes pareciam difíceis demais.</p>
